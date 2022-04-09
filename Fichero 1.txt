@@ -6,3 +6,5 @@ Estoy haciendo cambios más radicales
 
 Cambios 2
 
+Característica 2
+
