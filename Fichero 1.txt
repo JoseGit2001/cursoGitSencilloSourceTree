@@ -2,5 +2,5 @@ Este es el fichero 1
 
 Estos son cambios en stash
 
-Estoy haciendo cambios
+Estoy haciendo cambios más radicales
 
