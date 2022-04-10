@@ -11,3 +11,5 @@ Característica 2
 Sigo haciendo cambios
 
 commit 1 fastforward
+
+commit 2 fastforward
